@@ -1,3 +1,3 @@
 ![Header](./Banner.png)
 
-<hr style="background: linear-gradient(to right, #000000, #56dbcc); height: 4px; border: none;" />
+<img src="https://raw.githubusercontent.com/kettanaito/gradient-lines/main/lines/aqua.svg" width="100%" height="4px">
