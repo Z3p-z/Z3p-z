@@ -12,13 +12,13 @@
 ![break-line](./break-line.svg)
 
 # Meine Projekte:
--# Discord
+
 
 <img src="https://cdn3.emoji.gg/emojis/591110-glowing-dot-blue.gif" width="24" height="24" alt="-"> Melo || Ein All-in-1 Bot für jede Situation.
 <img src="https://cdn3.emoji.gg/emojis/591110-glowing-dot-blue.gif" width="24" height="24" alt="-"> Minely || Ein Minecraft Bot mit vielen Funktionen, sowie Server Daten fetchen.
 <img src="https://cdn3.emoji.gg/emojis/591110-glowing-dot-blue.gif" width="24" height="24" alt="-"> Z3phyr Music || Shutdown -- Keine Info verfügbar.
 
--# WhatsApp
+
 <img src="https://cdn3.emoji.gg/emojis/591110-glowing-dot-blue.gif" width="24" height="24" alt="-"> Sauf-Bot || Shutdown -- Keine Info verfügbar.
 
 # Freunde (hoffe ich zumindest):
