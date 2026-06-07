@@ -34,7 +34,7 @@ Ich arbeite momentan daran, meine Bots komplett kostenlos auf einer Plattform zu
 
 ![break-line](./break-line.svg)
 
-## 🤝 Freunde (hoffe ich zumindest)
+## 🤝 Freunde
 
 * <img src="https://cdn3.emoji.gg/emojis/429156-star1nvict.gif" width="18" height="18" alt="Star"> **Bencodess** — [benslogs.dev](https://benslogs.dev)
 * <img src="https://cdn3.emoji.gg/emojis/429156-star1nvict.gif" width="18" height="18" alt="Star"> **Non-exist** — *Keine Website*
